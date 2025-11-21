@@ -5,9 +5,12 @@ So what brings you to the profile? There might be some reasons:
 
 ## Projects I work on (or package bundles that i am building):
 
-## My Brain's Library
+## My Brain's Library ##
+
 Programming Languages: Bash, Python3, AWK 
+
 Design & Multimedia: VLC (Linux) &  & Krita (Linux)
+
 And that's all that is notable in a GitHub README.md
 
 ## Contacting Info
