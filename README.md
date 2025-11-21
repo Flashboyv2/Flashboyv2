@@ -5,11 +5,13 @@ So what brings you to the profile? There might be some reasons:
 
 ## Projects I work on (or package bundles that i am building):
 
+[LFS Project](https://www.linuxfromscratch.org/index.html)
+
 ## My Brain's Library ##
 
 Programming Languages: Bash, Python3, AWK 
 
-Design & Multimedia: VLC (Linux) &  & Krita (Linux)
+Design & Multimedia: VLC (Linux) & Elisa (Linux) & Krita (Linux)
 
 And that's all that is notable in a GitHub README.md
 
