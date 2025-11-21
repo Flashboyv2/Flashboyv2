@@ -17,3 +17,5 @@ And that's all that is notable in a GitHub README.md
 
 EMail : operator2578@gmail.com
 
+## Stats
+[![Flashboyv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=flashboyv2&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
